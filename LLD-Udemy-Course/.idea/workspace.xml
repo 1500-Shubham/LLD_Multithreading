@@ -1,26 +1,370 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="48e8a419-7887-49ae-864c-d5cff75944bf" name="Changes" comment="" />
+    <list default="true" id="48e8a419-7887-49ae-864c-d5cff75944bf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/Observer/BADCODE/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/Observer/BADCODE/MobileDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/Observer/BADCODE/WeatherStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/Observer/GOODCODE/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/Observer/GOODCODE/MobileDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/Observer/GOODCODE/ObserverOrSubscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/Observer/GOODCODE/SubjectOrPublisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/Observer/GOODCODE/TVDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/Observer/GOODCODE/WeatherStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/State/BADCODE/WithoutState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/State/GoodCode/DirectionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/State/GoodCode/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/State/GoodCode/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/State/GoodCode/TransportationMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/State/GoodCode/Walking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/Strategy/BadCode/WithoutStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/Strategy/GoodCode/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/Strategy/GoodCode/DebitCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/Strategy/GoodCode/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/Strategy/GoodCode/PaymentMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/Strategy/GoodCode/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/AbstactFactory/BADCODE/MacButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/AbstactFactory/BADCODE/MacScrollBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/AbstactFactory/BADCODE/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/AbstactFactory/BADCODE/WindowsButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/AbstactFactory/BADCODE/WindowsScrollBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/AbstactFactory/GOODCODE/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/AbstactFactory/GOODCODE/MacButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/AbstactFactory/GOODCODE/MacFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/AbstactFactory/GOODCODE/MacScrollBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/AbstactFactory/GOODCODE/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/AbstactFactory/GOODCODE/ScrollBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/AbstactFactory/GOODCODE/UIFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/AbstactFactory/GOODCODE/WindowsButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/AbstactFactory/GOODCODE/WindowsFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/AbstactFactory/GOODCODE/WindowsScrollBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/Factory/BADCODE/ClientDocumentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/Factory/BADCODE/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/Factory/BADCODE/PDF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/Factory/BADCODE/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/Factory/GOODCODE/ClientDocumentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/Factory/GOODCODE/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/Factory/GOODCODE/DocumentFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/Factory/GOODCODE/PDF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/Factory/GOODCODE/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/Singleton/BADCODE/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/Singleton/GOODCODE/AppSettings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/Singleton/GOODCODE/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/DebitCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/PaymentMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/UPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/DIP_DependencyInjectionPrinciple/BADCODE/EmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/DIP_DependencyInjectionPrinciple/BADCODE/NotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/DIP_DependencyInjectionPrinciple/BADCODE/SMSService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/DIP_DependencyInjectionPrinciple/GoodCode/EmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/DIP_DependencyInjectionPrinciple/GoodCode/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/DIP_DependencyInjectionPrinciple/GoodCode/NotificationChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/DIP_DependencyInjectionPrinciple/GoodCode/NotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/DIP_DependencyInjectionPrinciple/GoodCode/SMSService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/ISP_InterfaceSegregationPrinciple/BADCODE/Machine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/ISP_InterfaceSegregationPrinciple/BADCODE/MultipurposePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/ISP_InterfaceSegregationPrinciple/BADCODE/SimplePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/ISP_InterfaceSegregationPrinciple/GoodCode/Copier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/ISP_InterfaceSegregationPrinciple/GoodCode/MultipurposePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/ISP_InterfaceSegregationPrinciple/GoodCode/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/ISP_InterfaceSegregationPrinciple/GoodCode/Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/ISP_InterfaceSegregationPrinciple/GoodCode/SimplePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/LSP_LiskovSubstitutionPrinciple/BADCode/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/LSP_LiskovSubstitutionPrinciple/BADCode/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/LSP_LiskovSubstitutionPrinciple/BADCode/ReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/LSP_LiskovSubstitutionPrinciple/GoodCode/Ma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/LSP_LiskovSubstitutionPrinciple/GoodCode/ReadOnlyFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/LSP_LiskovSubstitutionPrinciple/GoodCode/Readable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/LSP_LiskovSubstitutionPrinciple/GoodCode/Writable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/LSP_LiskovSubstitutionPrinciple/GoodCode/WriteFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/OCP_OpenClosePrinciple/BadCode/PaymentProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/OCP_OpenClosePrinciple/GoodCode/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/OCP_OpenClosePrinciple/GoodCode/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/OCP_OpenClosePrinciple/GoodCode/PaymentMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/OCP_OpenClosePrinciple/GoodCode/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/OCP_OpenClosePrinciple/GoodCode/UPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/SRP_SingleResponsibilityPrinciple/BadCode/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/SRP_SingleResponsibilityPrinciple/GoodCode/EmailNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/SRP_SingleResponsibilityPrinciple/GoodCode/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/SRP_SingleResponsibilityPrinciple/GoodCode/InvoiceRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/SRP_SingleResponsibilityPrinciple/GoodCode/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UML/AggregationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UML/AssociationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UML/CompositionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UML/DependencyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UML/InheritanceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UML/RealizationExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/Basics/OOPS/Card.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/Basics/OOPS/Client.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/Basics/OOPS/CreditCard.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/Basics/OOPS/DebitCard.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/Basics/OOPS/PaymentMethod.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/Basics/OOPS/PaymentService.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/Basics/OOPS/UPI.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/Basics/OOPS/Wallet.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/Basics/UML/AggregationExample.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/Basics/UML/AssociationExample.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/Basics/UML/CompositionExample.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/Basics/UML/DependencyExample.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/Basics/UML/InheritanceExample.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/Basics/UML/RealizationExample.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/BehaviouralPatterns/CommandPattern/WithCommandPattern.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/BehaviouralPatterns/CommandPattern/WithoutCommandPattern.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/BehaviouralPatterns/IteratorPattern/Book.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/BehaviouralPatterns/IteratorPattern/BookCollectionV1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/BehaviouralPatterns/IteratorPattern/BookCollectionV2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/BehaviouralPatterns/IteratorPattern/BookCollectionV3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/BehaviouralPatterns/IteratorPattern/ClientV1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/BehaviouralPatterns/IteratorPattern/ClientV2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/BehaviouralPatterns/IteratorPattern/ClientV3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/BehaviouralPatterns/MediatorPattern/WithMediatorPattern.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/BehaviouralPatterns/MediatorPattern/WithoutMediatorPattern.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/BehaviouralPatterns/MementoPattern/Caretaker.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/BehaviouralPatterns/MementoPattern/EditorMemento.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/BehaviouralPatterns/MementoPattern/TextEditor.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/BehaviouralPatterns/MementoPattern/TextEditorMain.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/BehaviouralPatterns/ObserverPattern/ObserverPatternExample.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/BehaviouralPatterns/ObserverPattern/WithoutObserverPattern.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/BehaviouralPatterns/StatePattern/Problem/DirectionService.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/BehaviouralPatterns/StatePattern/Problem/WithoutStatePattern.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/BehaviouralPatterns/StatePattern/Solution/Car.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/BehaviouralPatterns/StatePattern/Solution/Cycling.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/BehaviouralPatterns/StatePattern/Solution/DirectionService.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/BehaviouralPatterns/StatePattern/Solution/Train.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/BehaviouralPatterns/StatePattern/Solution/TransportationMode.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/BehaviouralPatterns/StatePattern/Solution/Walking.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/BehaviouralPatterns/StatePattern/Solution/WithStatePattern.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/BehaviouralPatterns/StrategyPattern/StrategyPattern.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/BehaviouralPatterns/StrategyPattern/WithoutStrategyPattern.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/BehaviouralPatterns/TemplateMethodPattern/WithTemplatePattern.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/BehaviouralPatterns/TemplateMethodPattern/WithoutTemplateMethod.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/CreationalPatterns/AbstractFactoryPattern/Problem/Application.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/CreationalPatterns/AbstractFactoryPattern/Solution/Application.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/CreationalPatterns/BuilderPattern/Problem/House.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/CreationalPatterns/BuilderPattern/Problem/WithoutBuilderPattern.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/CreationalPatterns/BuilderPattern/Solution/House.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/CreationalPatterns/BuilderPattern/Solution/WithBuilderPattern.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/CreationalPatterns/FactoryPattern/Problem/Bike.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/CreationalPatterns/FactoryPattern/Problem/Bus.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/CreationalPatterns/FactoryPattern/Problem/Car.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/CreationalPatterns/FactoryPattern/Problem/Transport.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/CreationalPatterns/FactoryPattern/Problem/TransportService.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/CreationalPatterns/FactoryPattern/Solution/Bike.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/CreationalPatterns/FactoryPattern/Solution/Bus.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/CreationalPatterns/FactoryPattern/Solution/Car.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/CreationalPatterns/FactoryPattern/Solution/Transport.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/CreationalPatterns/FactoryPattern/Solution/TransportFactory.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/CreationalPatterns/FactoryPattern/Solution/TransportService.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/CreationalPatterns/PrototypePattern/Problem/GameBoard.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/CreationalPatterns/PrototypePattern/Problem/GameClientWithoutPrototype.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/CreationalPatterns/PrototypePattern/Problem/GamePiece.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/CreationalPatterns/PrototypePattern/Solution/GameBoard.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/CreationalPatterns/PrototypePattern/Solution/GameClientWithPrototype.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/CreationalPatterns/PrototypePattern/Solution/GamePiece.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/CreationalPatterns/PrototypePattern/Solution/Prototype.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/CreationalPatterns/SingletonPattern/Problem/AppSettings.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/CreationalPatterns/SingletonPattern/Problem/WithoutSingletonPattern.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/CreationalPatterns/SingletonPattern/Solution/AppSettings.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/CreationalPatterns/SingletonPattern/Solution/SingletonPattern.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/LLDProject/RideSharingApp/V1/Client.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/LLDProject/RideSharingApp/V1/Driver.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/LLDProject/RideSharingApp/V1/Location.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/LLDProject/RideSharingApp/V1/Passenger.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/LLDProject/RideSharingApp/V1/RideSharingAppService.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/LLDProject/RideSharingApp/V1/Vehicle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/LLDProject/RideSharingApp/V2/Bike.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/LLDProject/RideSharingApp/V2/Car.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/LLDProject/RideSharingApp/V2/Client.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/LLDProject/RideSharingApp/V2/Driver.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/LLDProject/RideSharingApp/V2/FareStrategy.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/LLDProject/RideSharingApp/V2/Location.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/LLDProject/RideSharingApp/V2/Passenger.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/LLDProject/RideSharingApp/V2/Ride.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/LLDProject/RideSharingApp/V2/RideMatchingSystem.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/LLDProject/RideSharingApp/V2/User.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/LLDProject/RideSharingApp/V2/Vehicle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/DIP/BadCode/EmailService.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/DIP/BadCode/NotificationService.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/DIP/BadCode/SMSService.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/DIP/GoodCode/EmailService.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/DIP/GoodCode/Main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/DIP/GoodCode/NotificationChannel.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/DIP/GoodCode/NotificationService.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/DIP/GoodCode/SMSService.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/ISP/BadCode/Document.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/ISP/BadCode/Machine.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/ISP/BadCode/MultiPurposeMachine.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/ISP/BadCode/SimplePrinter.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/ISP/GoodCode/Copier.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/ISP/GoodCode/MultiPurposeMachine.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/ISP/GoodCode/Printer.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/ISP/GoodCode/Scanner.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/ISP/GoodCode/SimplePrinter.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/LSP/BadCode/File.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/LSP/BadCode/Main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/LSP/BadCode/ReadOnlyFile.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/LSP/GoodCode/Main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/LSP/GoodCode/ReadOnlyFile.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/LSP/GoodCode/Readable.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/LSP/GoodCode/ReadableFile.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/LSP/GoodCode/Writable.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/LSP/GoodCode/WritableFile.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/OCP/BadCode/PaymentProcessor.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/OCP/GoodCode/CreditCard.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/OCP/GoodCode/DebitCard.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/OCP/GoodCode/Main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/OCP/GoodCode/PayPal.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/OCP/GoodCode/PaymentMethod.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/OCP/GoodCode/PaymentProcessor.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/OCP/GoodCode/UPI.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/SRP/BadCode/Invoice.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/SRP/BadCode/Invoice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/SRP/GoodCode/EmailService.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/SRP/GoodCode/EmailService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/SRP/GoodCode/Invoice.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/SRP/GoodCode/Invoice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/SRP/GoodCode/InvoiceRepository.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/SRP/GoodCode/InvoiceRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/SOLIDPrinciples/SRP/GoodCode/Main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/AdapterPattern/Client.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/AdapterPattern/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/AdapterPattern/EmailNotificationService.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/AdapterPattern/EmailNotificationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/AdapterPattern/NotificationService.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/AdapterPattern/NotificationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/AdapterPattern/SendGridAdapter.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/AdapterPattern/SendGridAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/AdapterPattern/SendGridService.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/AdapterPattern/SendGridService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/CompositePattern/Problem/File.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/CompositePattern/Problem/File.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/CompositePattern/Problem/FileSystemApp.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/CompositePattern/Problem/FileSystemApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/CompositePattern/Problem/Folder.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/CompositePattern/Problem/Folder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/CompositePattern/Solution/File.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/CompositePattern/Solution/File.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/CompositePattern/Solution/FileSystemApp.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/CompositePattern/Solution/FileSystemApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/CompositePattern/Solution/FileSystemComponent.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/CompositePattern/Solution/FileSystemComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/CompositePattern/Solution/Folder.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/CompositePattern/Solution/Folder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/DecoratorPattern/Problem/BasicPizza.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/DecoratorPattern/Problem/BasicPizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/DecoratorPattern/Problem/CheeseOlivePizza.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/DecoratorPattern/Problem/CheeseOlivePizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/DecoratorPattern/Problem/CheesePizza.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/DecoratorPattern/Problem/CheesePizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/DecoratorPattern/Problem/Pizza.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/DecoratorPattern/Problem/Pizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/DecoratorPattern/Problem/PizzaApp.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/DecoratorPattern/Problem/PizzaApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/DecoratorPattern/Solution/BasicPizza.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/DecoratorPattern/Solution/BasicPizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/DecoratorPattern/Solution/CheeseDecorator.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/DecoratorPattern/Solution/CheeseDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/DecoratorPattern/Solution/MushroomDecorator.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/DecoratorPattern/Solution/MushroomDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/DecoratorPattern/Solution/OliveDecorator.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/DecoratorPattern/Solution/OliveDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/DecoratorPattern/Solution/Pizza.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/DecoratorPattern/Solution/Pizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/DecoratorPattern/Solution/PizzaApp.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/DecoratorPattern/Solution/PizzaApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/DecoratorPattern/Solution/PizzaDecorator.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/DecoratorPattern/Solution/PizzaDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/FacadePattern/Problem/Client.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/FacadePattern/Problem/OrderService.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/FacadePattern/Problem/PaymentService.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/FacadePattern/Problem/UserService.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/FacadePattern/Solution/APIGateway.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/FacadePattern/Solution/Client.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/FacadePattern/Solution/OrderService.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/FacadePattern/Solution/PaymentService.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/FacadePattern/Solution/UserService.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/FlyWeightPattern/Problem/Bullet.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/FlyWeightPattern/Problem/Game.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/FlyWeightPattern/Solution/Bullet.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/FlyWeightPattern/Solution/BulletType.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/FlyWeightPattern/Solution/BulletTypeFactory.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/FlyWeightPattern/Solution/Game.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/ProxyPattern/Problem/Client.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/ProxyPattern/Problem/Image.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/ProxyPattern/Problem/RealImage.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/ProxyPattern/Solution/Client.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/ProxyPattern/Solution/Image.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/ProxyPattern/Solution/ProxyImage.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/StructuralPatterns/ProxyPattern/Solution/RealImage.cpp" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="38a4hBxMMwVQquvZtVrAS8UYDE8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClientDocumentService.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ma.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WithoutState.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WithoutStrategy.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/shubhamkeshari/Documents/Java_OOP_LLD_Multithreading/LLD-Udemy-Course/src&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/CreationalDesignPatterns" />
+      <recent name="$PROJECT_DIR$/src/BehaviourDesignPatterns" />
+      <recent name="$PROJECT_DIR$/src/SOLIDPrinciples/OCP" />
+      <recent name="$PROJECT_DIR$/src/SOLIDPrinciples/SRP" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="CreationalDesignPatterns.AbstactFactory.GOODCODE" />
+      <recent name="CreationalDesignPatterns.AbstactFactory.BADCODE" />
+      <recent name="CreationalDesignPatterns.Factory.GOODCODE" />
+      <recent name="BehaviourDesignPatterns.Strategy.GoodCode" />
+      <recent name="BehaviourDesignPatterns.Observer.GOODCODE" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
