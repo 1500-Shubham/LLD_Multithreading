@@ -5,104 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48e8a419-7887-49ae-864c-d5cff75944bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/Observer/BADCODE/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/Observer/BADCODE/MobileDevice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/Observer/BADCODE/WeatherStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/Observer/GOODCODE/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/Observer/GOODCODE/MobileDevice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/Observer/GOODCODE/ObserverOrSubscriber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/Observer/GOODCODE/SubjectOrPublisher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/Observer/GOODCODE/TVDevice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/Observer/GOODCODE/WeatherStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/State/BADCODE/WithoutState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/State/GoodCode/DirectionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/State/GoodCode/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/State/GoodCode/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/State/GoodCode/TransportationMode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/State/GoodCode/Walking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/Strategy/BadCode/WithoutStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/Strategy/GoodCode/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/Strategy/GoodCode/DebitCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/Strategy/GoodCode/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/Strategy/GoodCode/PaymentMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehaviourDesignPatterns/Strategy/GoodCode/PaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/AbstactFactory/BADCODE/MacButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/AbstactFactory/BADCODE/MacScrollBar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/AbstactFactory/BADCODE/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/AbstactFactory/BADCODE/WindowsButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/AbstactFactory/BADCODE/WindowsScrollBar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/AbstactFactory/GOODCODE/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/AbstactFactory/GOODCODE/MacButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/AbstactFactory/GOODCODE/MacFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/AbstactFactory/GOODCODE/MacScrollBar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/AbstactFactory/GOODCODE/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/AbstactFactory/GOODCODE/ScrollBar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/AbstactFactory/GOODCODE/UIFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/AbstactFactory/GOODCODE/WindowsButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/AbstactFactory/GOODCODE/WindowsFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/AbstactFactory/GOODCODE/WindowsScrollBar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/Factory/BADCODE/ClientDocumentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/Factory/BADCODE/Document.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/Factory/BADCODE/PDF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/Factory/BADCODE/Word.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/Factory/GOODCODE/ClientDocumentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/Factory/GOODCODE/Document.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/Factory/GOODCODE/DocumentFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/Factory/GOODCODE/PDF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/Factory/GOODCODE/Word.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/Singleton/BADCODE/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/Singleton/GOODCODE/AppSettings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPatterns/Singleton/GOODCODE/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/DebitCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/PaymentMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/PaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/UPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/DIP_DependencyInjectionPrinciple/BADCODE/EmailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/DIP_DependencyInjectionPrinciple/BADCODE/NotificationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/DIP_DependencyInjectionPrinciple/BADCODE/SMSService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/DIP_DependencyInjectionPrinciple/GoodCode/EmailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/DIP_DependencyInjectionPrinciple/GoodCode/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/DIP_DependencyInjectionPrinciple/GoodCode/NotificationChannel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/DIP_DependencyInjectionPrinciple/GoodCode/NotificationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/DIP_DependencyInjectionPrinciple/GoodCode/SMSService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/ISP_InterfaceSegregationPrinciple/BADCODE/Machine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/ISP_InterfaceSegregationPrinciple/BADCODE/MultipurposePrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/ISP_InterfaceSegregationPrinciple/BADCODE/SimplePrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/ISP_InterfaceSegregationPrinciple/GoodCode/Copier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/ISP_InterfaceSegregationPrinciple/GoodCode/MultipurposePrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/ISP_InterfaceSegregationPrinciple/GoodCode/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/ISP_InterfaceSegregationPrinciple/GoodCode/Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/ISP_InterfaceSegregationPrinciple/GoodCode/SimplePrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/LSP_LiskovSubstitutionPrinciple/BADCode/File.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/LSP_LiskovSubstitutionPrinciple/BADCode/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/LSP_LiskovSubstitutionPrinciple/BADCode/ReadFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/LSP_LiskovSubstitutionPrinciple/GoodCode/Ma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/LSP_LiskovSubstitutionPrinciple/GoodCode/ReadOnlyFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/LSP_LiskovSubstitutionPrinciple/GoodCode/Readable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/LSP_LiskovSubstitutionPrinciple/GoodCode/Writable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/LSP_LiskovSubstitutionPrinciple/GoodCode/WriteFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/OCP_OpenClosePrinciple/BadCode/PaymentProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/OCP_OpenClosePrinciple/GoodCode/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/OCP_OpenClosePrinciple/GoodCode/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/OCP_OpenClosePrinciple/GoodCode/PaymentMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/OCP_OpenClosePrinciple/GoodCode/PaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/OCP_OpenClosePrinciple/GoodCode/UPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/SRP_SingleResponsibilityPrinciple/BadCode/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/SRP_SingleResponsibilityPrinciple/GoodCode/EmailNotification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/SRP_SingleResponsibilityPrinciple/GoodCode/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/SRP_SingleResponsibilityPrinciple/GoodCode/InvoiceRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLIDPrinciples/SRP_SingleResponsibilityPrinciple/GoodCode/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UML/AggregationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UML/AssociationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UML/CompositionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UML/DependencyExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UML/InheritanceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UML/RealizationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Adapter/BADCODE/EmailNoticationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Adapter/BADCODE/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Adapter/BADCODE/NewThirdPartyEmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Adapter/BADCODE/NotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Adapter/GOODCODE/EmailNoticationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Adapter/GOODCODE/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Adapter/GOODCODE/NewThirdPartyAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Adapter/GOODCODE/NewThirdPartyEmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Adapter/GOODCODE/NotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Decorator/BADCODE/BasixcPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Decorator/BADCODE/CheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Decorator/BADCODE/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Decorator/BADCODE/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Decorator/GOODCODE/BasixcPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Decorator/GOODCODE/CheeseDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Decorator/GOODCODE/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Decorator/GOODCODE/OliveDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Decorator/GOODCODE/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Decorator/GOODCODE/PizzaDecorator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns-java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns-java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/Basics/OOPS/Card.cpp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/Basics/OOPS/Client.cpp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/Basics/OOPS/CreditCard.cpp" beforeDir="false" />
@@ -358,11 +281,11 @@
       <recent name="$PROJECT_DIR$/src/SOLIDPrinciples/SRP" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ObserverDesignPatterns.Decorator.GOODCODE" />
+      <recent name="ObserverDesignPatterns.Adapter.GOODCODE" />
       <recent name="CreationalDesignPatterns.AbstactFactory.GOODCODE" />
       <recent name="CreationalDesignPatterns.AbstactFactory.BADCODE" />
       <recent name="CreationalDesignPatterns.Factory.GOODCODE" />
-      <recent name="BehaviourDesignPatterns.Strategy.GoodCode" />
-      <recent name="BehaviourDesignPatterns.Observer.GOODCODE" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
