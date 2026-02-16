@@ -5,25 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48e8a419-7887-49ae-864c-d5cff75944bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Adapter/BADCODE/EmailNoticationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Adapter/BADCODE/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Adapter/BADCODE/NewThirdPartyEmailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Adapter/BADCODE/NotificationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Adapter/GOODCODE/EmailNoticationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Adapter/GOODCODE/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Adapter/GOODCODE/NewThirdPartyAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Adapter/GOODCODE/NewThirdPartyEmailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Adapter/GOODCODE/NotificationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Decorator/BADCODE/BasixcPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Decorator/BADCODE/CheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Decorator/BADCODE/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Decorator/BADCODE/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Decorator/GOODCODE/BasixcPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Decorator/GOODCODE/CheeseDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Decorator/GOODCODE/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Decorator/GOODCODE/OliveDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Decorator/GOODCODE/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPatterns/Decorator/GOODCODE/PizzaDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RideSharing/V1/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RideSharing/V1/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RideSharing/V1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RideSharing/V1/Passenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RideSharing/V1/RideSharingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RideSharing/V1/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RideSharing/V2/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RideSharing/V2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RideSharing/V2/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RideSharing/V2/FareStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RideSharing/V2/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RideSharing/V2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RideSharing/V2/Passenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RideSharing/V2/Ride.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RideSharing/V2/RideMatchingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RideSharing/V2/RideStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RideSharing/V2/SharedFareStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RideSharing/V2/StandardFareStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RideSharing/V2/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RideSharing/V2/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/design-patterns-java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns-java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/design-patterns-java/cpp/Basics/OOPS/Card.cpp" beforeDir="false" />
@@ -238,6 +239,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -281,11 +283,11 @@
       <recent name="$PROJECT_DIR$/src/SOLIDPrinciples/SRP" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="RideSharing.V2" />
       <recent name="ObserverDesignPatterns.Decorator.GOODCODE" />
       <recent name="ObserverDesignPatterns.Adapter.GOODCODE" />
       <recent name="CreationalDesignPatterns.AbstactFactory.GOODCODE" />
       <recent name="CreationalDesignPatterns.AbstactFactory.BADCODE" />
-      <recent name="CreationalDesignPatterns.Factory.GOODCODE" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
