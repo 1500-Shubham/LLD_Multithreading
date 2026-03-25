@@ -9,6 +9,7 @@ public class InternalButton {
 
     public void pressButton(int floor){
 //        Directly invoke the elevator controller
+        System.out.println("Internal button pressed for elevator"+ elevatorController.elevatorCar.id+ "for floor"+ floor);
         elevatorController.submitRequest(floor);
     }
 }

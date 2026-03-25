@@ -8,6 +8,7 @@ public class ExternalButton {
     }
 
     public void pressButton(int floor, ElevatorDirection elevatorDirection){
+        System.out.println("External button pressed for floor"+ floor + "move "+ elevatorDirection.name());
         this.externalDispatcher.submitExternalRequest(floor,elevatorDirection);
     }
 }

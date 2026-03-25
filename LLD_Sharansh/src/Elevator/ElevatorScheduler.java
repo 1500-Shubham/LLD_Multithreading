@@ -16,7 +16,7 @@ public class ElevatorScheduler {
     }
 
     public ElevatorController assignElevator(int floor, ElevatorDirection elevatorDirection){
-        return  null;
+        return  this.elevatorSelectionStrategy.selectElevator(elevatorControllers,floor,elevatorDirection);
     }
 
 }
